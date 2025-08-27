@@ -26,4 +26,4 @@ Sou _João Vitor_, tenho muito caminho a percorrer em questão de conhecimento m
 <hr>
 <img height="254" align="left" src="https://i.pinimg.com/originals/55/6a/f1/556af168f1356fcd42c51f87eed1728f.gif" />
 
-## | Muito obrigado! |
+<h3 align="center">Muito obrigado!</h3>
