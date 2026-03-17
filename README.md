@@ -8,8 +8,8 @@ Sou _João Vitor_, tenho muito caminho a percorrer em questão de conhecimento m
 - ✨Checagem de Qualidade
 - 🌁Editor Gráfico
 - 📼Edição de Vídeo
-- 🔣Romhacking na raça
 - 🔍Bastante investigativo
+- 🔣Romhacking
 
 # Minhas Traduções
 
